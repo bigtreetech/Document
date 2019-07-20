@@ -1,4 +1,6 @@
-
+### install Git bash
+- Please download and install the correct version [Git](https://git-scm.com/downloads) first.
+![image](https://user-images.githubusercontent.com/25599056/61577177-58dcb400-ab16-11e9-8167-a14fba8e2c0c.png)
 ### How to install vscode and platformio for compile
 
 - Please download VSCode from [here](https://code.visualstudio.com/Download)
